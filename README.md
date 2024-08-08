@@ -29,6 +29,11 @@ I'm a self-taught developer and an active Software Engineer student who loves te
 
 <img align="left" alt="SQL" width="30px" style="padding-right:10px; margin-top=10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <br />
+
+
+
+
+
 #
 
 ### 📊 Stats
